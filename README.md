@@ -21,6 +21,6 @@ The following table display the results of the implemented queries and gives an 
 
 ## Summary 
 
-The Amazon Vine program doesnt seem to represent a big part of the reviews, as 497 out of 121360 were reviews from the members, which could be negligible. 
+The Amazon Vine program doesn't seem to represent a big part of the reviews, as 497 out of 121360 were reviews from the members, which could be negligible. 
 
 Additional analysis could be to analyze each product the Vine/non-Vine member ratio to certify there's no bias towards the program and that manufacturers are not tweaking the bar in their favor.
